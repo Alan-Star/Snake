@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1638698696 source:c:\users\yu\desktop\c\b\snake_alpha\movesnakebydirection.c
+	"snake.h"
+
+1638759101 c:\users\yu\desktop\c\b\snake_alpha\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1638756289 source:c:\users\yu\desktop\c\b\snake_alpha\startup.c
+	"snake.h"
+
+1638698696 source:c:\users\yu\desktop\c\b\snake_alpha\updatewithoutinput.c
+	"snake.h"
+
+1638760728 source:c:\users\yu\desktop\c\b\snake_alpha\main.c
+	"snake.h"
+
+1638763209 source:c:\users\yu\desktop\c\b\snake_alpha\welcome.c
+	"snake.h"
+
